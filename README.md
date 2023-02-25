@@ -1,10 +1,10 @@
 # Corner Grocer Item Tracker
-Practice application in C++
-Developed in Visual Studio
-For CS-210-T3259 Programming Languages 23EW3 (SNHU)
-7-3 Project Three
-2/23/2023
 
+Practice application in C++<br>
+Developed in Visual Studio<br>
+For CS-210-T3259 Programming Languages 23EW3 (SNHU)<br>
+7-3 Project Three<br>
+2/23/2023<br>
 
 ## Documentation
 
